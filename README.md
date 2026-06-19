@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Mohamed Ehab</h1>
 <h3 align="center">AI Student | Aspiring Data Analyst | Python Enthusiast</h3>
 
@@ -66,4 +65,3 @@
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
-```
